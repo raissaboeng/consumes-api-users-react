@@ -19,6 +19,9 @@ Abrindo a pasta do projeto, executar os comandos: <br/>
 $ npm install <br/>
 $ npm run <br/>
 
+ou teste no link abaixo. <br />
+https://codesandbox.io/s/github/raissaboeng/consumes-api-users-react
+
 ### :bulb: Melhorias
 [ ] Adicionar usuários; <br/>
 [ ] Edição de usuários; <br />
